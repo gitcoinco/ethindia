@@ -1,20 +1,21 @@
-# Example Project
+# Converge Protocol
 
 ## Outline
+- Converge Protocol is a usablity and scalability solution for Ethereum
+- Converge is a pluggable features for wallets and dapps which help create batches/bundles of transactions.
+- It can be used to merging and sending mulitple transactions into a single one.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus euismod massa, a vulputate lectus tincidunt sodales. Donec viverra interdum sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed iaculis elit et ante lacinia, eget porta mi ultricies. Integer elementum sodales mi, volutpat gravida elit mollis viverra. Pellentesque fringilla pulvinar ultrices. Morbi nec rutrum purus. Suspendisse egestas nec lorem sit amet lobortis. Etiam fermentum elit id felis aliquam dapibus. Sed eu odio sollicitudin, iaculis nisi convallis, ullamcorper augue. Integer tempor consectetur vulputate. Aliquam nibh ex, lobortis vel ultrices nec, accumsan sit amet mauris. Duis ornare libero et nibh ultricies fermentum. Pellentesque vel hendrerit massa, non eleifend elit.
+Moving Forward, It will be one of the poineer of offchain and plasma data distrbution solution for Ethereum scalablity solutions
 
 ## Tech Stack
 
-- Python 3.7
-- web3py
-- ipfs
-- AWS Lambda
+- NodeJs
+- EmbarkJs
+- ReactJs
+- Solidity
+- Web3
 
 ## Team Members
 
-- Mark Beacom (mbeacom)
-- Saptak Sengupta (SaptakS)
-- Aditya Anand (thelostone-mc)
-
-...
+- Abhishek sharma
+- Roopa Balappagari

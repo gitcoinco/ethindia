@@ -1,0 +1,6 @@
+[submodule "projects/lakshmi/projects/lakshmi/lakshmi-web3"]
+	path = projects/lakshmi/projects/lakshmi/lakshmi-web3
+	url = https://github.com/alegw/lakshmi-web3
+[submodule "projects/lakshmi/projects/lakshmi/lakshmi"]
+	path = projects/lakshmi/projects/lakshmi/lakshmi
+	url = https://github.com/nadirlaskar/lakshmi

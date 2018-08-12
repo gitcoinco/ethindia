@@ -1,0 +1,6 @@
+1. Clone https://github.com/nadirlaskar/lakshmi and https://github.com/alegw/lakshmi-web3
+2. On the lakshmi repo, run node index.js. On the lakshmi-web3 repo, run npm start. Please make sure that laskhmi-web3 is running on localhost:3001, and that Metamask is installed and unlocked.
+3. Open localhost:3000 and follow the instructions. You'll need a working Indian SIM card to complete SMS verification.
+4. Continue following on-screen instructions. When you get to the part where "we'll get to you in the next few days", wait for five seconds and refresh the page.
+5. When you are offered a loan, please accept the terms. You will be redirected to a new tab with the terms of the loan. When you click on submit, use Metamask to confirm adding your signature as a borrower of the loan.
+6. The web3 tab will be closed and you'll get a loan approval message. Hooray!

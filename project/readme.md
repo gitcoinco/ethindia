@@ -41,8 +41,11 @@
 [YoutubeLink](https://www.youtube.com/watch?v=M_96Vgpx5c4)
 
 ### Screenshots of Proof of Concept
-
+- MultiTransactions
 ![MultiTransactions](img/1.png)
+- Demo Screen
 ![Demo Screen](img/2.png)
+- Txn Visualizations
 ![Txn Visualizations](img/3.png)
+- Demo Working
 ![Demo Working](img/4.png)

@@ -4,6 +4,11 @@
 
 Project Buterin is a community of solidity hackers who are interested in writing the most efficent solidty code as possible. Project Buterin consists of a practise platform and competetion platform where hackers can submit solutions for problems listed in platforms. The submissions would be rated on the gas used.
 
+## Watch the demo
+
+[![](http://img.youtube.com/vi/gbS1z30SFA0/0.jpg)](http://www.youtube.com/watch?v=gbS1z30SFA0&t=18s "Project Buterin YouTube Demo")
+
+
 ## For Hackers
 * Learn to write the most efficent solidity code by practising on our Judge
 * Compete with other hackers and earn Prize money and hacker tokens
